@@ -7,13 +7,13 @@
     Variables
 --------------------- */
 :root{
-    --main-color: dodgerblue;
+    --main-color: #ff0000;
     --blue: #0000ff;
-    --blue-dark: #18293c;
+    --blue-dark: #c3073f;
     --orange: #ffa500;
     --green-yellow: #cddc39;
-    --pink-light: #efa2b4;
-    --cyan-light: #aef1ee;
+    --pink-light: #6f2232;
+    --cyan-light: #cc3300;
     --white: #ffffff;
     --white-alpha-40: rgba(255, 255, 255, 0.40);
     --white-alpha-25: rgba(255, 255, 255, 0.25);
